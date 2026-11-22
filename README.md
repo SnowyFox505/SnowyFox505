@@ -9,11 +9,11 @@
 <img src="https://img.shields.io/badge/TypeScript-5-3178c6?style=flat-square&labelColor=0b1a20&logo=typescript&logoColor=white" alt="TypeScript">
 <img src="https://img.shields.io/badge/Vite-8-a78bfa?style=flat-square&labelColor=0b1a20&logo=vite&logoColor=white" alt="Vite">
 <img src="https://img.shields.io/badge/Tailwind-4-38bdf8?style=flat-square&labelColor=0b1a20&logo=tailwindcss&logoColor=white" alt="Tailwind">
-<img src="https://img.shields.io/badge/Framer%20Motion---ff0055?style=flat-square&labelColor=0b1a20&logo=framer&logoColor=white" alt="Framer%20Motion">
+<img src="https://img.shields.io/badge/Framer%20Motion-ff0055?style=flat-square&labelColor=0b1a20&logo=framer&logoColor=white" alt="Framer%20Motion">
 <img src="https://img.shields.io/badge/Firebase-Firestore%20%C2%B7%20Auth-ffca28?style=flat-square&labelColor=0b1a20&logo=firebase&logoColor=white" alt="Firebase">
 <img src="https://img.shields.io/badge/MapLibre-GL-3fa6a1?style=flat-square&labelColor=0b1a20&logo=maplibre&logoColor=white" alt="MapLibre">
-<img src="https://img.shields.io/badge/Leaflet---199900?style=flat-square&labelColor=0b1a20&logo=leaflet&logoColor=white" alt="Leaflet">
-<img src="https://img.shields.io/badge/Vercel---ffffff?style=flat-square&labelColor=0b1a20&logo=vercel&logoColor=white" alt="Vercel">
+<img src="https://img.shields.io/badge/Leaflet-199900?style=flat-square&labelColor=0b1a20&logo=leaflet&logoColor=white" alt="Leaflet">
+<img src="https://img.shields.io/badge/Vercel-ffffff?style=flat-square&labelColor=0b1a20&logo=vercel&logoColor=white" alt="Vercel">
 <img src="https://img.shields.io/badge/PWA-installable-cf6a3c?style=flat-square&labelColor=0b1a20&logo=pwa&logoColor=white" alt="PWA">
 
 </div>
