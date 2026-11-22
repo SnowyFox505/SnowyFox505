@@ -12,6 +12,7 @@
 <img src="https://img.shields.io/badge/Framer%20Motion-ff0055?style=flat-square&labelColor=0b1a20&logo=framer&logoColor=white" alt="Framer%20Motion">
 <img src="https://img.shields.io/badge/Firebase-Firestore%20%C2%B7%20Auth-ffca28?style=flat-square&labelColor=0b1a20&logo=firebase&logoColor=white" alt="Firebase">
 <img src="https://img.shields.io/badge/MapLibre-GL-3fa6a1?style=flat-square&labelColor=0b1a20&logo=maplibre&logoColor=white" alt="MapLibre">
+<img src="https://img.shields.io/badge/three.js-ffffff?style=flat-square&labelColor=0b1a20&logo=threedotjs&logoColor=white" alt="three.js">
 <img src="https://img.shields.io/badge/Leaflet-199900?style=flat-square&labelColor=0b1a20&logo=leaflet&logoColor=white" alt="Leaflet">
 <img src="https://img.shields.io/badge/Vercel-ffffff?style=flat-square&labelColor=0b1a20&logo=vercel&logoColor=white" alt="Vercel">
 <img src="https://img.shields.io/badge/PWA-installable-cf6a3c?style=flat-square&labelColor=0b1a20&logo=pwa&logoColor=white" alt="PWA">
@@ -27,9 +28,17 @@
 
 ## Projekte
 
-Vier Apps, alle **live im Browser** und als **PWA** auf dem Homescreen installierbar. Ein Klick auf ein Bild öffnet die App.
+Fünf Apps, alle **live im Browser** und als **PWA** auf dem Homescreen installierbar. Ein Klick auf ein Bild öffnet die App.
 
 <table>
+  <tr>
+    <td colspan="2" valign="top" align="center">
+      <a href="https://lineforge-app.vercel.app"><img src="assets/card-lineforge.jpg" alt="LineForge" width="100%"></a><br>
+      <sub>Baue fiktive Städte und zeichne ihre Liniennetze: vom 2D-Editor über den automatischen Netzplan im BVG-Stil bis zur 3D-Ansicht mit fahrenden Zügen, Brücken und mehrgeschossigen Bahnhöfen.</sub><br><br>
+      <a href="https://lineforge-app.vercel.app"><img src="https://img.shields.io/badge/%E2%96%B6%20Live-lineforge--app.vercel.app-c6f24a?style=for-the-badge&labelColor=0b1a20" alt="Live"></a>
+      <a href="https://github.com/SnowyFox505/lineforge"><img src="https://img.shields.io/badge/GitHub-lineforge-24292f?style=for-the-badge&logo=github&logoColor=white" alt="Repo"></a>
+    </td>
+  </tr>
   <tr>
     <td width="50%" valign="top" align="center">
       <a href="https://australian-battles.vercel.app"><img src="assets/card-australian-battles.jpg" alt="Australian Battles" width="100%"></a><br>
@@ -77,9 +86,17 @@ Vier Apps, alle **live im Browser** und als **PWA** auf dem Homescreen installie
 
 ## Projects
 
-Four apps, all **live in the browser** and installable on the home screen as a **PWA**. Click an image to open the app.
+Five apps, all **live in the browser** and installable on the home screen as a **PWA**. Click an image to open the app.
 
 <table>
+  <tr>
+    <td colspan="2" valign="top" align="center">
+      <a href="https://lineforge-app.vercel.app"><img src="assets/card-lineforge.jpg" alt="LineForge" width="100%"></a><br>
+      <sub>Build fictional cities and draw their transit networks: from a 2D editor and an automatic network plan to a 3D view with running trains, bridges and multi-level stations.</sub><br><br>
+      <a href="https://lineforge-app.vercel.app"><img src="https://img.shields.io/badge/%E2%96%B6%20Live-lineforge--app.vercel.app-c6f24a?style=for-the-badge&labelColor=0b1a20" alt="Live"></a>
+      <a href="https://github.com/SnowyFox505/lineforge"><img src="https://img.shields.io/badge/GitHub-lineforge-24292f?style=for-the-badge&logo=github&logoColor=white" alt="Repo"></a>
+    </td>
+  </tr>
   <tr>
     <td width="50%" valign="top" align="center">
       <a href="https://australian-battles.vercel.app"><img src="assets/card-australian-battles.jpg" alt="Australian Battles" width="100%"></a><br>
